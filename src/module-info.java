@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author gareg
+ *
+ */
+module Singleton {
+}
